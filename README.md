@@ -2,7 +2,8 @@
 
 Ejercicio 2 ############ Realizar una función que calcule y muestre el área o el volumen de un cilindro, según se especifique. Para distinguir un caso de otro se le pasará un número 1 (para área) o 2 (para el volumen). Además, hemos de pasarle a la función el radio de la base y la altura. área = 2π · radio · (altura + radio) volumen = π · radio2 · altura ############
 
-Ejercicio 3 ############ Diseñar dos función que reciban como parámetros tres números enteros y que devuelva una el máximo y otra el mínimo de los tres números. ############
+Ejercicio 3 ############ Diseñar dos función que reciban como parámetros tres números enteros y que devuelva una el máximo y otra el mínimo de los tres números. ############ç
+He añadido 2 metodos uno para encontrar el numero mayor, y otro para encontrar el menor y lo he dejado indentado
 
 Ejercicio 4 ############ Crear una función que, mediante un booleano, indique si el carácter que se pasa como parámetro de entrada corresponde con una vocal. ############
 
